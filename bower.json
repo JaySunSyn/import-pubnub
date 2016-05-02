@@ -1,0 +1,28 @@
+{
+  "name": "import-pubnub",
+  "version": "1.0.0",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "The import element of the pubnub library.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "pubnub",
+    "import"
+  ],
+  "main": "import-pubnub.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/import-pubnub.git",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "pubnub": "~3.7.18",
+  },
+  "devDependencies": {}
+}
