@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "pubnub": "~3.7.18",
+    "pubnub": "~3.7.18"
   },
   "devDependencies": {}
 }
